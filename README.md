@@ -1,7 +1,5 @@
 # GridUI - 声明式网格布局引擎
 
-![GridUI架构示意图](gridui-arch.png)
-
 ## 🌟 核心特性
 
 - **多重布局模式**
